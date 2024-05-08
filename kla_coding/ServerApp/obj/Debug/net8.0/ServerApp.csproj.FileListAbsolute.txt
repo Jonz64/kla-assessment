@@ -1,0 +1,14 @@
+/Users/jonz64/Documents/misc./kla_coding/ServerApp/bin/Debug/net8.0/ServerApp
+/Users/jonz64/Documents/misc./kla_coding/ServerApp/bin/Debug/net8.0/ServerApp.deps.json
+/Users/jonz64/Documents/misc./kla_coding/ServerApp/bin/Debug/net8.0/ServerApp.runtimeconfig.json
+/Users/jonz64/Documents/misc./kla_coding/ServerApp/bin/Debug/net8.0/ServerApp.dll
+/Users/jonz64/Documents/misc./kla_coding/ServerApp/bin/Debug/net8.0/ServerApp.pdb
+/Users/jonz64/Documents/misc./kla_coding/ServerApp/obj/Debug/net8.0/ServerApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonz64/Documents/misc./kla_coding/ServerApp/obj/Debug/net8.0/ServerApp.AssemblyInfoInputs.cache
+/Users/jonz64/Documents/misc./kla_coding/ServerApp/obj/Debug/net8.0/ServerApp.AssemblyInfo.cs
+/Users/jonz64/Documents/misc./kla_coding/ServerApp/obj/Debug/net8.0/ServerApp.csproj.CoreCompileInputs.cache
+/Users/jonz64/Documents/misc./kla_coding/ServerApp/obj/Debug/net8.0/ServerApp.dll
+/Users/jonz64/Documents/misc./kla_coding/ServerApp/obj/Debug/net8.0/refint/ServerApp.dll
+/Users/jonz64/Documents/misc./kla_coding/ServerApp/obj/Debug/net8.0/ServerApp.pdb
+/Users/jonz64/Documents/misc./kla_coding/ServerApp/obj/Debug/net8.0/ServerApp.genruntimeconfig.cache
+/Users/jonz64/Documents/misc./kla_coding/ServerApp/obj/Debug/net8.0/ref/ServerApp.dll

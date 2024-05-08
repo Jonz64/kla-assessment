@@ -1,0 +1,14 @@
+/Users/jonz64/Documents/misc./kla_coding/ClientApp/bin/Debug/net8.0/ClientApp
+/Users/jonz64/Documents/misc./kla_coding/ClientApp/bin/Debug/net8.0/ClientApp.deps.json
+/Users/jonz64/Documents/misc./kla_coding/ClientApp/bin/Debug/net8.0/ClientApp.runtimeconfig.json
+/Users/jonz64/Documents/misc./kla_coding/ClientApp/bin/Debug/net8.0/ClientApp.dll
+/Users/jonz64/Documents/misc./kla_coding/ClientApp/bin/Debug/net8.0/ClientApp.pdb
+/Users/jonz64/Documents/misc./kla_coding/ClientApp/obj/Debug/net8.0/ClientApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonz64/Documents/misc./kla_coding/ClientApp/obj/Debug/net8.0/ClientApp.AssemblyInfoInputs.cache
+/Users/jonz64/Documents/misc./kla_coding/ClientApp/obj/Debug/net8.0/ClientApp.AssemblyInfo.cs
+/Users/jonz64/Documents/misc./kla_coding/ClientApp/obj/Debug/net8.0/ClientApp.csproj.CoreCompileInputs.cache
+/Users/jonz64/Documents/misc./kla_coding/ClientApp/obj/Debug/net8.0/ClientApp.dll
+/Users/jonz64/Documents/misc./kla_coding/ClientApp/obj/Debug/net8.0/refint/ClientApp.dll
+/Users/jonz64/Documents/misc./kla_coding/ClientApp/obj/Debug/net8.0/ClientApp.pdb
+/Users/jonz64/Documents/misc./kla_coding/ClientApp/obj/Debug/net8.0/ClientApp.genruntimeconfig.cache
+/Users/jonz64/Documents/misc./kla_coding/ClientApp/obj/Debug/net8.0/ref/ClientApp.dll
